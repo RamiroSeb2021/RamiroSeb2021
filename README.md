@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Diego Andrés Avella 🚀</h1>
+<h1 align="center">👨‍💻 Sebastián Ramirez Ayala 🚀</h1>
 
 
 <p align="center">
