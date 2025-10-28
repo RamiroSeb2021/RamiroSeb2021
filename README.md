@@ -1,141 +1,127 @@
-<h1 align="center">👨‍💻 Sebastián Ramirez Ayala 🚀</h1>
-
+<h1 align="center">👨‍💻 Juan Sebastián Ramírez Ayala 🚀</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:7B0619&height=230&section=header&text=Diego%20Andrés%20Avella%20Acevedo&fontSize=42&fontColor=fff&animation=fadeIn&descAlignY=58&descAlign=50" alt="header capsule"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003973,100:005AA7&height=220&section=header&text=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Python%20%7C%20SQL%20%7C%20R&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 </p>
 
-
-
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2400&pause=800&color=8A2BE2&center=true&vCenter=true&width=720&lines=Bienvenido+a+mi+GitHub!+👋;Data+Science+%7C+Machine+Learning+%7C+Estad%C3%ADstica;Analizando+datos+con+Python+%26+R)](https://github.com/your-github-username)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=007BFF&center=true&vCenter=true&width=720&lines=Welcome+to+my+GitHub!+👋;Data+Science+%7C+Machine+Learning+%7C+Deep+Learning+%7C+NLP;Turning+data+into+insight+with+Python,+R+and+SAS+Viya)](https://github.com/RamiroSeb2021)
 
 </div>
 
 ---
 
-## 🌐 English / Español
+## 🧭 About Me
 
-<table>
-<tr>
-<td width="50%" valign="top">
+Hi! I'm **Juan Sebastián Ramírez Ayala**, a **Data Scientist and Machine Learning Engineer** passionate about solving real-world problems through data-driven decision making.
 
-### 🇺🇸 About Me
-🎓 I'm an **Statistics Engineering student** focused on data analysis and machine learning.  
-💻 I work with SQL databases, Python, R and statistical modeling (including Bayesian methods).  
-🔭 I build data workflows, models and visualizations — sometimes in VR for interactive analysis.  
+I blend **statistical modeling**, **machine learning**, and **data engineering** to build scalable and interpretable analytical solutions.  
+I enjoy developing end-to-end projects—from data preparation and model training to deployment and visualization.
 
-</td>
-<td width="50%" valign="top">
-
-### 🇪🇸 Sobre mí
-🎓 Soy **estudiante de Ingeniería Estadística** con interés en ciencia de datos y machine learning.  
-💻 Experiencia en gestión de bases de datos (PL/SQL), programación en Python y R, y modelos estadísticos.  
-🔭 Desarrollo soluciones analíticas, visualizaciones y prototipos (incluyendo aplicaciones en realidad virtual).  
-
-</td>
-</tr>
-</table>
+📚 I also enjoy teaching and mentoring others. I’ve served as an **academic monitor** for advanced statistics courses such as *Regression Analysis, Probability, Multivariate Analysis, Statistical Inference, Non-Parametric Statistics,* and *Bayesian Statistics.*
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-6A0DAD?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-7D3C98?style=for-the-badge&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PL--SQL-7B61FF?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-8A2BE2?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Haskell-8F6AD1?style=for-the-badge&logo=haskell&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-6E2EA7?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-7B3FBE?style=for-the-badge&logo=power-bi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/A-frame-7A33C9?style=for-the-badge&logo=globe&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-6F2DB8?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RStudio-7C3EE0?style=for-the-badge&logo=rstudio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-7037C7?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SAS%20Viya-005AA7?style=for-the-badge&logo=sas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-CC0000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
-## 📊 Estadísticas
+## 🧠 Machine Learning Toolkit
+
+- Supervised & Unsupervised Learning  
+- Neural Networks & Deep Learning  
+- Natural Language Processing (NLP)  
+- Model Validation & Optimization  
+- Time Series Forecasting  
+- Feature Engineering & Dimensionality Reduction  
+- Statistical Simulation & Resampling (Bootstrap, Monte Carlo)
+
+---
+
+## 🌟 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| **📊 Tax Data Analysis** | Predictive modeling of tax payment probability using Python, Machine Learning and Kaggle datasets. |
+| **🎓 SAS Hackathon – ICFES Educational Model** | Built an educational performance model with SAS Viya and Python for national assessment data. |
+| **🧠 Autoencoder + ML for ICFES** | Dimensionality reduction via Autoencoders and regression analysis to predict academic performance. |
+| **🧾 OCR Invoice Text Extractor** | Automated document processing system (PDF → text) using OCR, NLP and Regular Expressions. |
+| **🛰️ AI Lie Detection** | Developed a facial emotion recognition model (LSTM + LibreFace) for micro-expression analysis. |
+| **📐 Shiny App – Sample Size Calculator for ANOVA** | R Shiny app to estimate sample sizes using Monte Carlo simulations (Harris–Hurvitz–Mood method). |
+| **🔗 SQL Data Modeling & ETL for ERP** | Designed relational database schemas and ETL pipelines in Oracle and PostgreSQL. |
+| **🧮 Statistical Tools** | Developed R/Python scripts for bootstrapping, random effects ANOVA, and power analysis. |
+
+---
+
+## 📜 Certifications & Achievements
+
+- SAS Certified Specialist: Base Programming  
+- SAS Viya Intermediate Applications  
+- Machine Learning Foundations (Coursera)  
+- Deep Learning Specialization (Andrew Ng)  
+- Python for Data Science (IBM)  
+- SQL for Data Analysis (Google)
+
+📎 *See full list on LinkedIn:*  
+[linkedin.com/in/juan-sebastian-ramirez-ayala-021366281](https://www.linkedin.com/in/juan-sebastian-ramirez-ayala-021366281/details/certifications/)
+
+---
+
+## 📚 R & Statistical Analysis Portfolio
+
+You can explore my reproducible statistical and simulation projects here:  
+🔗 [https://rpubs.com/juanayaramiro](https://rpubs.com/juanayaramiro)
+
+---
+
+## 🎓 Academic & Teaching Experience
+
+- **Academic Monitor** – Escuela Colombiana de Ingeniería Julio Garavito  
+  Assisted and tutored undergraduate students in advanced statistical subjects, including:  
+  *Regression Analysis, Probability, Multivariate Analysis, Statistical Inference, Non-Parametric Statistics, and Bayesian Statistics.*
+
+---
+
+## 📈 GitHub Stats
+
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=AndresAvella09&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub stats for AndresAvella09"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresAvella09&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top languages for AndresAvella09"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=RamiroSeb2021&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamiroSeb2021&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
-
 ---
 
-## 🌟 Proyectos / Proyectos destacados
-
-<table>
-  <tr>
-    <td>
-      <b>Análisis musical (Spotify 2010-2020)</b><br/>
-      Análisis de tendencias y correlaciones en atributos musicales usando Python y técnicas multivariadas.<br/>
-      <a href="#" target="_blank">Repo</a>
-    </td>
-    <td>
-      <b>Comparativa Bayesiana de Medicamentos</b><br/>
-      Modelo bayesiano para comparar eficacia entre dos antidepresivos; inferencia y visualización de resultados.<br/>
-      <a href="#" target="_blank">Repo</a>
-    </td>
-    <td>
-      <b>Visualizador VR para PCA</b><br/>
-      Aplicación en realidad virtual que permite explorar componentes principales e impacto de reducción de dimensión.<br/>
-      <a href="#" target="_blank">Repo</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>Proyecto PL/SQL — Base de datos académica</b><br/>
-      Diseño y gestión de base de datos relacional con funciones y procedimientos para casos de uso reales.<br/>
-      <a href="#" target="_blank">Repo</a>
-    </td>
-    <td>
-      <b>Docencia — Profesor de Estadística</b><br/>
-      Talleres y apoyo académico en estadística básica y métodos cuantitativos.<br/>
-      <a href="#" target="_blank">Contacto</a>
-    </td>
-    <td>
-      <b>Maratón de programación — 3er puesto</b><br/>
-      Competencia de programación avanzada — resolución de problemas algorítmicos y optimización.<br/>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📜 Logros y Certificaciones
-
-- 3er puesto en Maratón de Programación (Universidad).  
-- 2º mejor proyecto de Ingeniería Estadística (Feria 2024-2) — "Análisis en VR".  
-- Monitor académico y experiencia enseñando estadística básica.  
-
----
-
-## 📫 Contacto / Contact
+## 📫 Contact
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/avella09/">
-    <img src="https://img.shields.io/badge/LinkedIn-Diego%20Avella-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/juan-sebastian-ramirez-ayala-021366281/">
+    <img src="https://img.shields.io/badge/LinkedIn-Juan%20Sebastián%20Ramírez%20Ayala-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:diegoandresavella@gmail.com">
-    <img src="https://img.shields.io/badge/Email-diegoandresavella%40gmail.com-7D3C98?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <a href="mailto:">
+    <img src="https://img.shields.io/badge/Email-Professional%20Contact-005AA7?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/AndresAvella09/">
-    <img src="https://img.shields.io/badge/GitHub-AndresAvella09-7B61FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <a href="https://github.com/RamiroSeb2021">
+    <img src="https://img.shields.io/badge/GitHub-RamiroSeb2021-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/Location-Bogot%C3%A1,%20Colombia-8A2BE2?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location">
+  <img src="https://img.shields.io/badge/Location-Bogotá,%20Colombia-005AA7?style=for-the-badge&logo=google-maps&logoColor=white"/>
 </div>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:7D3C98&height=110&section=footer" alt="footer capsule"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:005AA7,100:007BFF&height=100&section=footer"/>
 </p>
-
-<p align="center">
-  <a href="https://github.com/your-github-username">
-    <img src="https://komarev.com/ghpvc/?username=your-github-username&color=8A2BE2&style
